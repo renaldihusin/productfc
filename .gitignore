@@ -1,0 +1,16 @@
+bin/
+vendor/
+
+*.exe
+*.out
+*.log
+*.test
+
+.vscode/
+.idea/
+
+.DS_Store
+
+*.so
+*.dll
+*.dylib
